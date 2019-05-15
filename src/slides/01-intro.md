@@ -23,3 +23,9 @@ Here's the source of the first slide:
     # Gatsby Deck
 
     Create presentations using Gatsby & React.
+
+---
+
+# Added a new slide!
+
+This is a new slide created by me.
